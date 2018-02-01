@@ -1,0 +1,6 @@
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\InstrSol-Project2\ClientToTestHarness\bin\Debug\ClientToTestHarness.exe.config
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\InstrSol-Project2\ClientToTestHarness\bin\Debug\ClientToTestHarness.exe
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\InstrSol-Project2\ClientToTestHarness\bin\Debug\ClientToTestHarness.pdb
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\InstrSol-Project2\ClientToTestHarness\obj\Debug\ClientToTestHarness.exe
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\InstrSol-Project2\ClientToTestHarness\obj\Debug\ClientToTestHarness.pdb
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\InstrSol-Project2\ClientToTestHarness\obj\Debug\ClientToTestHarness.csprojResolveAssemblyReference.cache

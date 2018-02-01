@@ -1,0 +1,10 @@
+Samuel_2016_11_22_05_56_06.8583670_ThreadID10.txt
+-----------------------------
+FirstTest
+passed
+demo test that always passes
+-----------------------------
+asda
+failed
+file not loaded
+-----------------------------

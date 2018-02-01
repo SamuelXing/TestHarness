@@ -1,0 +1,16 @@
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\InstrSol-Project2\IService\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\InstrSol-Project2\IService\bin\Debug\IService.exe.config
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\InstrSol-Project2\IService\bin\Debug\IService.exe
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\InstrSol-Project2\IService\bin\Debug\IService.pdb
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\InstrSol-Project2\IService\bin\Debug\CS-BlockingQueue.exe
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\InstrSol-Project2\IService\bin\Debug\CS-BlockingQueue.pdb
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\InstrSol-Project2\IService\obj\Debug\IService.exe
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\InstrSol-Project2\IService\obj\Debug\IService.pdb
+C:\Users\ZihaoXing\Desktop\Project4\IService\bin\Debug\IService.exe.config
+C:\Users\ZihaoXing\Desktop\Project4\IService\bin\Debug\IService.exe
+C:\Users\ZihaoXing\Desktop\Project4\IService\bin\Debug\IService.pdb
+C:\Users\ZihaoXing\Desktop\Project4\IService\bin\Debug\CS-BlockingQueue.exe
+C:\Users\ZihaoXing\Desktop\Project4\IService\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\ZihaoXing\Desktop\Project4\IService\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+C:\Users\ZihaoXing\Desktop\Project4\IService\obj\Debug\IService.exe
+C:\Users\ZihaoXing\Desktop\Project4\IService\obj\Debug\IService.pdb

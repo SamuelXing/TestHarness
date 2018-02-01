@@ -1,0 +1,6 @@
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\InstrSol-Project2\MessageTemplate\bin\Debug\MessageTemplate.exe.config
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\InstrSol-Project2\MessageTemplate\bin\Debug\MessageTemplate.exe
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\InstrSol-Project2\MessageTemplate\bin\Debug\MessageTemplate.pdb
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\InstrSol-Project2\MessageTemplate\obj\Debug\MessageTemplate.csprojResolveAssemblyReference.cache
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\InstrSol-Project2\MessageTemplate\obj\Debug\MessageTemplate.exe
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\InstrSol-Project2\MessageTemplate\obj\Debug\MessageTemplate.pdb
